@@ -1,0 +1,95 @@
+﻿<Window x:Class="ULLLL.WorkerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ULLLL"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="WorkerWindow" Height="450" Width="800">
+
+    <DockPanel>
+        <!-- ToolBar с иконками -->
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBarTray.Background>
+                <ImageBrush ImageSource="/фон — копия (2).jpg"/>
+            </ToolBarTray.Background>
+            <ToolBar Background="#FFC42A4C">
+                <!-- Кнопка открытия файла с иконкой -->
+                <Button Click="Button_Click" ToolTip="Выйти">
+                    <Image Source="images/free-icon-logout-5509651.png" Width="16" Height="16"/>
+                </Button>
+
+
+            </ToolBar>
+        </ToolBarTray>
+
+        <!-- Основное содержимое окна -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="38*"/>
+            </Grid.ColumnDefinitions>
+            <TabControl Grid.ColumnSpan="3">
+                <TabControl.Background>
+                    <ImageBrush ImageSource="/фон 1 — копия (6).jpg"/>
+                </TabControl.Background>
+                <!-- Вкладка для изменения количества товара -->
+                <TabItem Header="Изменение количества товара"  Background="#FFC82F53" FontWeight="Bold">
+                    <StackPanel Margin="10">
+                        <!-- Заголовок окна -->
+                        <TextBlock Text="Изменение количества товаров" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                        <!-- DataGrid для отображения списка товаров -->
+                        <DataGrid x:Name="ProductsDataGrid" AutoGenerateColumns="False" Height="200" SelectionChanged="ProductsDataGrid_SelectionChanged">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="ID товара" Binding="{Binding Product_ID}" Width="*"/>
+                                <DataGridTextColumn Header="Название товара" Binding="{Binding Name}" Width="*"/>
+                                <DataGridTextColumn Header="Количество" Binding="{Binding StockQuantity}" Width="*"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                        <!-- IntegerUpDown для изменения количества -->
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10,0,0">
+                            <TextBlock Text="Новое количество:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                            <xctk:IntegerUpDown Name="QuantityUpDown" Width="53" />
+                        </StackPanel>
+
+                        <Button Content="Сохранить изменения" HorizontalAlignment="Right" Margin="0,10,0,0" Click="SaveChangesButton_Click" Background="#FF7F293D" Foreground="#FFFDFDFD"/>
+                    </StackPanel>
+                </TabItem>
+
+                <TabItem Header="Изменение статуса заказа"  Background="#FFC82F53" FontWeight="Bold">
+                    <StackPanel Margin="10">
+                        <TextBlock Text="Изменение статуса заказа" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                        <!-- DataGrid для отображения списка заказов -->
+                        <DataGrid x:Name="OrdersDataGrid" AutoGenerateColumns="False" Height="200" SelectionChanged="OrdersDataGrid_SelectionChanged">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Номер заказа" Binding="{Binding Order_ID}" Width="*"/>
+                                <DataGridTextColumn Header="Имя клиента" Binding="{Binding ClientName}" Width="*"/>
+                                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="*"/>
+                                <DataGridTextColumn Header="Дата обновления" Binding="{Binding OrderDate}" Width="*"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                        <!-- ComboBox для выбора нового статуса -->
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,10,0,0">
+                            <TextBlock Text="Новый статус:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                            <ComboBox x:Name="OrderStatusComboBox" Width="150">
+                                <ComboBoxItem Content="В обработке" />
+                                <ComboBoxItem Content="Собран" />
+                                <ComboBoxItem Content="Отправлен" />
+                                <ComboBoxItem Content="Доставлен" />
+                                <ComboBoxItem Content="Отменен" />
+                            </ComboBox>
+                        </StackPanel>
+
+                        <Button Content="Обновить статус" HorizontalAlignment="Right" Margin="0,10,0,0" Click="UpdateOrderStatusButton_Click" Background="#FF7F293D" Foreground="#FFFDFDFD"/>
+                    </StackPanel>
+                </TabItem>
+            </TabControl>
+        </Grid>
+    </DockPanel>
+</Window>

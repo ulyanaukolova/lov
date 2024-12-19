@@ -1,0 +1,20 @@
+﻿<Window x:Class="ULLLL.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Авторизация" Height="300" Width="400">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/авт.jpg"/>
+        </Grid.Background>
+        <StackPanel Margin="20">
+            <TextBlock FontSize="20" Margin="0,0,0,20" Text="Авторизация"  FontWeight="Bold" HorizontalAlignment="Center" />
+            <Label Content="Логин:"  FontWeight="Bold"/>
+            <TextBox Name="UsernameTextBox" />
+            <Label Content="Пароль:"  FontWeight="Bold"/>
+            <PasswordBox Name="PasswordBox" />
+            <Button Name="LoginButton" Content="Войти" Click="LoginButton_Click" Margin="0,20,0,0"  Background="Black" Foreground="#FFF9F9F9" FontWeight="Bold" />
+            <Button Name="RegisterButton" Content="Регистрация" Click="RegisterButton_Click" Margin="0,10,0,0"  Background="Black" Foreground="#FFF9F9F9" FontWeight="Bold"/>
+            <TextBlock Name="StatusTextBlock" Foreground="Red" Margin="0,10,0,0" />
+        </StackPanel>
+    </Grid>
+</Window>

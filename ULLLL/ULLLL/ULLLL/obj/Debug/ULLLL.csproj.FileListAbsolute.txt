@@ -1,0 +1,213 @@
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.AssemblyReference.cache
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\App.g.cs
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.cache
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\bin\Debug\ULLLL.exe.config
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\bin\Debug\ULLLL.exe
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\bin\Debug\ULLLL.pdb
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.g.resources
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.Properties.Resources.resources
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.GenerateResource.cache
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.CoreCompileInputs.cache
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.exe
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\ULLLL.pdb
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\MainWindow.baml
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\MainWindow.g.cs
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\LoginWindow.baml
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\LoginWindow.g.cs
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\AdminWindow.baml
+C:\Users\lucyo\source\repos\ULLLL\ULLLL\obj\Debug\AdminWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\ULLLL.exe.config
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\ULLLL.exe
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\ULLLL.pdb
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.AssemblyReference.cache
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\AdminWindow.baml
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\LoginWindow.baml
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\MainWindow.baml
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\AdminWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\LoginWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\MainWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\App.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.cache
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.g.resources
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.Properties.Resources.resources
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.GenerateResource.cache
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.CoreCompileInputs.cache
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.exe
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.pdb
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\NotificationWindow.baml
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\NotificationWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\WorkerWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.lref
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\WorkerWindow.baml
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.Up2Date
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\UserWindow.g.cs
+C:\Users\lucyo\Desktop\курсач уляна\ULLLL\ULLLL\obj\Debug\UserWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ULLLL.exe.config
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ULLLL.exe
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ULLLL.pdb
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.AssemblyReference.cache
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\AdminWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\LoginWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\MainWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\NotificationWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\AdminWindow.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\LoginWindow.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\MainWindow.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\NotificationWindow.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\UserWindow.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\WorkerWindow.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\App.g.cs
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.cache
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.lref
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\UserWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\WorkerWindow.baml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.g.resources
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.Properties.Resources.resources
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.GenerateResource.cache
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.CoreCompileInputs.cache
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.Up2Date
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.exe
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\obj\Debug\ULLLL.pdb
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ClosedXML.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ClosedXML.Parser.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\RBush.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\SixLabors.Fonts.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Buffers.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.IO.Packaging.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Memory.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ClosedXML.pdb
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ClosedXML.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\ClosedXML.Parser.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\RBush.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\SixLabors.Fonts.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Buffers.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.IO.Packaging.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Memory.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\EPPlus.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\EPPlus.xml
+C:\Users\lucyo\Desktop\ULLLL\ULLLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ULLLL.exe.config
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ULLLL.exe
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ULLLL.pdb
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ClosedXML.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ClosedXML.Parser.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\EPPlus.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\RBush.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\SixLabors.Fonts.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Buffers.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.IO.Packaging.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Memory.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ClosedXML.pdb
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ClosedXML.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ClosedXML.Parser.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\EPPlus.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\RBush.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\SixLabors.Fonts.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Buffers.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.IO.Packaging.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Memory.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.AssemblyReference.cache
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\AdminWindow.baml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\LoginWindow.baml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\MainWindow.baml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\NotificationWindow.baml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\AdminWindow.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\LoginWindow.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\MainWindow.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\NotificationWindow.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\UserWindow.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\WorkerWindow.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\App.g.cs
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.cache
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL_MarkupCompile.lref
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\UserWindow.baml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\WorkerWindow.baml
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.g.resources
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.Properties.Resources.resources
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.GenerateResource.cache
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.csproj.CopyComplete
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.exe
+C:\Users\MASTER\Downloads\ULLLL\ULLLL\ULLLL\obj\Debug\ULLLL.pdb

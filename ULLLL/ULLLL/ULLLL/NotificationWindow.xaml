@@ -1,0 +1,16 @@
+﻿<!-- NotificationWindow.xaml -->
+<Window x:Class="ULLLL.NotificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStyle="None" AllowsTransparency="True" 
+        Background="Transparent" Topmost="True" 
+        Width="200" Height="100">
+    <Border Background="LightGray" CornerRadius="8" Padding="10">
+        <TextBlock x:Name="MessageTextBlock" 
+                   Text="Уведомление" 
+                   Foreground="Black" 
+                   VerticalAlignment="Center" 
+                   HorizontalAlignment="Center" 
+                   TextWrapping="Wrap"/>
+    </Border>
+</Window>

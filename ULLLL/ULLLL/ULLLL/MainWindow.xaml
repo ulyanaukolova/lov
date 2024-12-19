@@ -1,0 +1,32 @@
+﻿<Window x:Class="ULLLL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Регистрация" Height="400" Width="300">
+    <Window.Background>
+        <ImageBrush ImageSource="/рег.jpg"/>
+    </Window.Background>
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Имя пользователя:" Margin="0,5"  FontWeight="Bold"/>
+            <TextBox x:Name="UsernameTextBox" />
+
+            <TextBlock Text="Фамилия:" Margin="0,5"  FontWeight="Bold"/>
+            <TextBox x:Name="LastNameTextBox" />
+
+            <TextBlock Text="Имя:" Margin="0,5"  FontWeight="Bold"/>
+            <TextBox x:Name="FirstNameTextBox" />
+
+            <TextBlock Text="Email:" Margin="0,5"  FontWeight="Bold"/>
+            <TextBox x:Name="EmailTextBox" />
+
+            <TextBlock Text="Телефон:" Margin="0,5"  FontWeight="Bold"/>
+            <TextBox x:Name="PhoneTextBox" />
+
+            <TextBlock Text="Пароль:" Margin="0,5"  FontWeight="Bold"/>
+            <PasswordBox x:Name="PasswordBox" />
+
+            <Button Content="Зарегистрироваться" Click="RegisterButton_Click" Margin="0,10" Background="Black" Foreground="#FFF9F9F9" FontWeight="Bold"/>
+            <TextBlock x:Name="StatusTextBlock" Foreground="Red" Margin="0,5"/>
+        </StackPanel>
+    </Grid>
+</Window>

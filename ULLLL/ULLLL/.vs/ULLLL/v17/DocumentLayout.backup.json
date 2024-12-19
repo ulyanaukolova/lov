@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucyo\\Desktop\\ULLLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|c:\\users\\lucyo\\desktop\\ullll\\ullll\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucyo\\Desktop\\ULLLL\\packages\\EPPlus.7.4.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.7.4.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\workerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\workerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\workerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\workerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\notificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|C:\\Users\\lucyo\\Desktop\\ULLLL\\ullll\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3960ECEA-D3FF-4692-A316-1E619B71DF60}|ULLLL\\ULLLL.csproj|solutionrelative:ullll\\notificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ULLLL\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "ULLLL\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:21:20.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ULLLL\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\UserWindow.xaml.cs*",
+              "RelativeToolTip": "ULLLL\\UserWindow.xaml.cs*",
+              "ViewState": "AgIAABwCAAAAAAAAAADwvysCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:36:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\UserWindow.xaml*",
+              "RelativeToolTip": "ULLLL\\UserWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T12:13:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\AdminWindow.xaml",
+              "RelativeToolTip": "ULLLL\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T12:59:16.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\LoginWindow.xaml",
+              "RelativeToolTip": "ULLLL\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T09:21:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\packages\\EPPlus.7.4.2\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.7.4.2\\readme.txt",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\packages\\EPPlus.7.4.2\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.7.4.2\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T08:32:06.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\MainWindow.xaml",
+              "RelativeToolTip": "ULLLL\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T09:21:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\WorkerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ULLLL\\WorkerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\WorkerWindow.xaml.cs",
+              "RelativeToolTip": "ULLLL\\WorkerWindow.xaml.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAtwHEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:20:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ULLLL\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ULLLL\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDMAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:21:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\WorkerWindow.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\WorkerWindow.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\WorkerWindow.xaml",
+              "RelativeToolTip": "ULLLL\\WorkerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T07:57:26.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ULLLL\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ULLLL\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T09:21:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\App.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\App.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\App.xaml",
+              "RelativeToolTip": "ULLLL\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T09:21:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotificationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\NotificationWindow.xaml",
+              "RelativeDocumentMoniker": "ULLLL\\NotificationWindow.xaml",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\NotificationWindow.xaml",
+              "RelativeToolTip": "ULLLL\\NotificationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T13:09:36.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\NotificationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ULLLL\\NotificationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lucyo\\Desktop\\ULLLL\\ULLLL\\NotificationWindow.xaml.cs",
+              "RelativeToolTip": "ULLLL\\NotificationWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:10:18.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

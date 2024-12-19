@@ -1,0 +1,32 @@
+name: Check Style Code
+
+on:
+  push:
+    branches:
+      - vetkas
+
+  pull_request:
+    branches:
+      - vetkas
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Download code
+      uses: actions/checkout@v2
+
+    - name: Set version
+      uses: microsoft/setup-msbuild@v7.0.2
+
+    - name: install
+      run: nuget restore TaskManagement.sln
+
+    - name: Build
+      run: |
+        msbuild TaskManagement.sln /p:Configuration=Release
+
+    - name: Run
+      run: |
+        msbuild TaskManagement.sln /p:Configuration=Release /p:RunCodeAnalysis=true
