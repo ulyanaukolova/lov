@@ -3,11 +3,11 @@ name: Check Style Code
 on:
   push:
     branches:
-      - vetkas
+      - vet
 
   pull_request:
     branches:
-      - vetkas
+      - vet
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set version
-      uses: microsoft/setup-msbuild@v7.0.2
+      uses: choco install netfx-4.
 
     - name: install
       run: nuget restore TaskManagement.sln
